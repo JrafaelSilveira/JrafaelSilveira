@@ -19,14 +19,14 @@ This repository contains a variety of my research projects and publications. Eac
    - **Tools**: Python, TensorFlow, GAN architectures
    - **Highlights**: Denoising techniques applied to the Parihaka field dataset from New Zealand, improving seismic image clarity.
    - **Folder**: `/Seismic-Denoising-GANs`  
-   - [Link to Paper](#) (add link)
+   - [Link to Paper](#) (Submitted)
 
 ### 2. **S-Wave Log Prediction Using Machine Learning**  
    - **Description**: A semi-supervised machine learning model combining clustering and regression techniques to predict S-wave velocity, applied to datasets from the North Sea.
    - **Tools**: Python, Scikit-learn, K-means, SVR, MLP
    - **Highlights**: Improved accuracy in S-wave log construction by integrating clustering methods with regression.
    - **Folder**: `/S-Wave-Prediction`
-   - [Link to Paper](#) (add link)
+   - [Link to Paper](https://www.sciencedirect.com/science/article/pii/S0926985124001927?casa_token=cnXBIXgU0zAAAAAA:UxQ4DKV-srx8Fu2ROKRR1S1WnK5v6pCR5nuA-itL3e1nrhjUMqjrPlAG4WJTGin7AUDyVa56hg)
 
 ### 3. **Hackathon Winning Project - Seismic Noise Reduction**  
    - **Description**: My winning project from the 18th EXPOGEF Hackathon. A GAN-based solution for seismic noise reduction applied to the Parihaka field.
